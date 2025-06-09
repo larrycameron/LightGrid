@@ -34,3 +34,6 @@ Contribution Guidelines
 Fork the repo and create a feature branch.
 Add tests for new features.
 Submit a pull request with a clear description.
+
+License
+MIT License
